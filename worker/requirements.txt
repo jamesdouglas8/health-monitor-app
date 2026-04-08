@@ -1,0 +1,4 @@
+pydexcom
+python-dotenv
+sqlalchemy
+psycopg[binary]

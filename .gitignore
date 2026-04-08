@@ -1,6 +1,10 @@
 # Python
 backend/.venv/
 backend/__pycache__/
+backend/.env
+worker/.venv/
+worker/__pycache__/
+worker/.env
 *.pyc
 
 # Node / Next.js
@@ -10,3 +14,4 @@ frontend/.next/
 # OS / editor
 .DS_Store
 Thumbs.db
+
